@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Mohabbot%20Hossain&fontSize=42&fontAlignY=38&desc=IT%20Professional%20%7C%20Network%20%26%20Infrastructure%20%7C%20Tech%20Educator&descFontSize=18&descAlignY=58&fontColor=ffffff" width="100%" alt="Banner" />
+  <!-- Animated Typing Header Banner -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohabbot+Hossain;Senior+Officer+(IT)+%7C+Network+%26+Security;Passionate+Tech+Educator+%26+Lifelong+Learner" alt="Typing SVG" />
+  </h1>
 
   <br/>
 
@@ -21,13 +23,13 @@
   <!-- Tech Skills Badges -->
   <h3>✦ TECH STACK & TOOLS ✦</h3>
   <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Network_Security-00599C?style=flat-square&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+    <img src="https://img.shields.io/badge/Network_Security-00599C?style=flat-square&logo=wireshark&logoColor=white" alt="Network Security" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 
 </div>
